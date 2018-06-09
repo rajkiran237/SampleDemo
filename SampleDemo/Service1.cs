@@ -36,7 +36,7 @@ namespace SampleDemo
                 lines.AddRange(
                 new[] {
                         data,
-                        "In log"
+                        "In log test for continuous integration of 5 mins."
                 });
 
                 File.AppendAllLines("c:\\SampleDemo.log.txt", lines);
