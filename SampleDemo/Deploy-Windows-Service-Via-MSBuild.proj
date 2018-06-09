@@ -2,7 +2,7 @@
 
   <!-- These settings control what the service's name, description etc appear in services.msc task panel. -->
 	<PropertyGroup Label="ServiceMetaData">
-		<ServiceName>SampleDemo</ServiceName>
+		<ServiceName>SampleDemoService</ServiceName>
 		<ServiceDisplayName>SampleDemo Windows Service (Jenkins CI test)</ServiceDisplayName>
 		<ServiceDescription>A new service, that changes the world for the greater good.</ServiceDescription>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -26,7 +26,7 @@
 		</Otherwise>
 	</Choose>
 	<PropertyGroup>
-		<ProjectName>MyWindowsService</ProjectName>
+		<ProjectName>SampleDemo</ProjectName>
 		<ProjectFile>$(MSBuildProjectDirectory)\$(ProjectName).csproj</ProjectFile>
 		<ServiceExecutablePath>C:\$(ServiceName)\$(ProjectName).exe</ServiceExecutablePath>
 	</PropertyGroup>
