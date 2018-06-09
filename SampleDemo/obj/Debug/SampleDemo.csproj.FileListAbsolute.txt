@@ -1,2 +1,6 @@
 C:\Users\rchili\Documents\Projects\Bootcamp\SampleDemo\SampleDemo\bin\Debug\SampleDemo.exe.config
 C:\Users\rchili\Documents\Projects\Bootcamp\SampleDemo\SampleDemo\obj\Debug\SampleDemo.csprojResolveAssemblyReference.cache
+C:\Users\rchili\Documents\Projects\Bootcamp\SampleDemo\SampleDemo\bin\Debug\SampleDemo.exe
+C:\Users\rchili\Documents\Projects\Bootcamp\SampleDemo\SampleDemo\bin\Debug\SampleDemo.pdb
+C:\Users\rchili\Documents\Projects\Bootcamp\SampleDemo\SampleDemo\obj\Debug\SampleDemo.exe
+C:\Users\rchili\Documents\Projects\Bootcamp\SampleDemo\SampleDemo\obj\Debug\SampleDemo.pdb
