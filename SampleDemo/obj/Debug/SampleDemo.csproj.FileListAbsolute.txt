@@ -1,1 +1,2 @@
 C:\Users\rchili\Documents\Projects\Bootcamp\SampleDemo\SampleDemo\bin\Debug\SampleDemo.exe.config
+C:\Users\rchili\Documents\Projects\Bootcamp\SampleDemo\SampleDemo\obj\Debug\SampleDemo.csprojResolveAssemblyReference.cache

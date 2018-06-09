@@ -30,9 +30,9 @@ namespace SampleDemo
 
         private List<string> Log(string data)
         {
+            List<string> lines = new List<string>();
             try
             {
-                List<string> lines = new List<string>();
                 lines.AddRange(
                 new[] {
                         data,
