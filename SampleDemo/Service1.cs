@@ -36,7 +36,7 @@ namespace SampleDemo
                 lines.AddRange(
                 new[] {
                         data,
-                        "In log test for continuous integration of 5 minutes. Testing the post-receive and post-commit triggers. Re-added post-receive and post-commit for git folder of local code."
+                        "In log test for continuous integration of 5 minutes. Testing the windows service start and stop."
                 });
 
                 File.AppendAllLines("c:\\SampleDemo.log.txt", lines);
