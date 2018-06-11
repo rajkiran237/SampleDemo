@@ -36,7 +36,7 @@ namespace SampleDemo
                 lines.AddRange(
                 new[] {
                         data,
-                        "In log test for continuous integration of 5 minutes. Added some random text. Added post-receive hook."
+                        "In log test for continuous integration of 5 minutes. Added some random text. Added post-receive hook ."
                 });
 
                 File.AppendAllLines("c:\\SampleDemo.log.txt", lines);
