@@ -36,7 +36,7 @@ namespace SampleDemo
                 lines.AddRange(
                 new[] {
                         data,
-                        "In log test for continuous integration of 5 minutes. Testing the windows service start and stop. From Raj for parallel testing. Version 4.0" 
+                        "In log test for continuous integration of 5 minutes. Testing the windows service start and stop. From Raj for parallel testing. Version 5.0" 
                 });
 
                 File.AppendAllLines("c:\\SampleDemo.log.txt", lines);
